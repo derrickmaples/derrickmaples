@@ -1,4 +1,4 @@
-## Hello my name is Derrick, an <a href="https://www.linkedin.com/in/derrick-e-maples-460544375/">IT Professional</a>@</hi>
+## Hello my name is Derrick, an <a href="https://www.linkedin.com/in/derrick-e-maples-460544375/">IT Professional
 
 <h2> Information Technology Projects:</h2>
 
