@@ -1,4 +1,4 @@
-## Hello my name is Derrick, an <a href="https://www.linkedin.com/in/derrick-e-maples-460544375/">IT Professional
+## Hello my name is Derrick, an <a href="https://www.linkedin.com/in/derrickemaples/">IT Professional
 
 <h2> Information Technology Projects:</h2>
 
@@ -12,6 +12,6 @@
 
 <h2> Connect with me:</h2>
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Derrick | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/derrick-e-maples-460544375/
+[linkedin]: https://www.linkedin.com/in/derrickemaples/
