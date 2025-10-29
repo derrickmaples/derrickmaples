@@ -9,7 +9,7 @@
   - [Ticket Lifecycle Examples](https://github.com/derrickmaples/ticket-lifecycle)
 
 - <b>Microsoft Azure</b>
-  - [Ticket Lifecycle Examples](https://github.com/derrickmaples/active-directory)
+  - [On-premises Active Directory Deployed in the Cloud (Azure)](https://github.com/derrickmaples/active-directory)
   - [Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines](https://github.com/derrickmaples/network-security-groups)
 
 
