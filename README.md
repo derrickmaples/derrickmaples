@@ -9,7 +9,7 @@
   - [Ticket Lifecycle Examples](https://github.com/derrickmaples/ticket-lifecycle)
 
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/derrrickmaples/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/derrrickmaples/active-directory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/derrrickmaples/azure-network-protocols)
 
 
