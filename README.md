@@ -10,7 +10,7 @@
 
 - <b>Microsoft Azure</b>
   - [Ticket Lifecycle Examples](https://github.com/derrickmaples/active-directory)
-  - [Ticket Lifecycle Examples](https://github.com/derrickmaples/network-security-groups)
+  - [Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines](https://github.com/derrickmaples/network-security-groups)
 
 
 <h2> Connect with me:</h2>
